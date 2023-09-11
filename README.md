@@ -1,6 +1,6 @@
 # Style Guide for C
 
-There's no one, right way to stylize code. But there are definitely a lot of wrong (or, at least, bad ways). Even so, CS50 does ask that you adhere to the conventions below so that we can reliably analyze your code's style. Similarly do companies typically adopt their own, company-wide conventions for style.
+There's no one, right way to stylize code. But there are definitely a lot of wrong (or, at least, bad ways). Even so, CS 105 does ask that you adhere to the conventions below so that we can reliably analyze your code's style. Similarly do companies typically adopt their own, company-wide conventions for style.
 
 ## Line Length
 
