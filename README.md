@@ -20,7 +20,7 @@ Comments make code more readable, not only for others (e.g., your TF) but also f
 What does this block do?
 Why did I implement this block in this way?
 Within functions, use "inline comments" and keep them short (e.g., one line), else it becomes difficult to distinguish comments from code, even with syntax highlighting. Place the comment above the line(s) to which it applies. No need to write in full sentences, but do capitalize the comment's first word (unless it's the name of a function, variable, or the like), and do leave one space between the // and your comment's first character, as in:
-
+'''
 // Convert Fahrenheit to Celsius
 float c = 5.0 / 9.0 * (f - 32.0);
 In other words, don't do this:
@@ -44,6 +44,7 @@ int square(int n)
 {
     return n * n;
 }
+'''
 Library Headers
 Any library headers that you include should be listed in alphabetical order, as in:
 
